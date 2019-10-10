@@ -1,6 +1,7 @@
 package org.fasttrackit;
 
 public class LogicalOp {
+
     public static void countToOneHundred(int x) {
         int counter = 100;
         if (x <= 100) {
